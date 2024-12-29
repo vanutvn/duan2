@@ -1,0 +1,7 @@
+h1 {
+  /* màu chữ */
+  color: blue;
+  font-style: italic;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  text-transform: uppercase;
+}
